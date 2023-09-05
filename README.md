@@ -9,3 +9,5 @@ Stock Market Performance Analysis involves calculating moving averages, measurin
 #As a data Analyst, you can go through a structured process of stock market performance analysis,
 #which involves collecting historical stock price data of different companies from trusted sources such as Yahoo Finance
 #visualizing data using various charts, calculating movements, averages and volatility for each company, and performing correlation analysis to analyze the relationships between different stock prices.
+# new add
+- ihave added a nw ipynb file that contains some enehanced analysis feature like rangeselectors and buttons etc 
